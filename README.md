@@ -1,7 +1,7 @@
-##Olá, eu sou o Carlos Juatan
+## Olá, eu sou o Carlos Juatan
 
 - 🔭 Hoje trabalho com front-end
-- 🌱 Estou estudando html, css e javascript
+- 🌱 Estou estudando html, css, javascript e react
 - 📫 Contate-me no email: carlosjuatan.workplace@gmail.com
 - 😄 Pronouns: ele/dele
 
