@@ -7,7 +7,7 @@
 
 <div>
     <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=carlos-juatan&show_icons=true&theme=dracula&include_all_commits=true&count_privat=true"/>
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-juatan&size_weight=0.5&count_weight=0.5&layout=donut&theme=dracula&langs_count=16&hide=hack,nix"/>
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-juatan&size_weight=0.5&count_weight=0.5&layout=donut&theme=dracula&langs_count=16&hide=hack,nix,Jupyter Notebook"/>
 </div>
 
 <div style="display: inline-block;"><br>
