@@ -1,8 +1,8 @@
 ## Olá, eu sou o Carlos Juatan
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estou estudando html, css, javascript e react
-- 📫 Contate-me no email: carlosjuatan.workplace@gmail.com
+- 🔭 Hoje trabalho com Front-end (Javascript e Typescript),Back-end (phyton), N8N, Docker, DevOps e Agentes de IA e banco de dados
+- 🌱 Uso as ferramentas citadas acima dependendo do escopo do projeto.
+- 📫 Contate-me no email: carlosjuatan.workplace@gmail.com ou no Whatsapp +55 (85) 9 9264-7973
 - 😄 Pronouns: ele/dele
 
 <div>
